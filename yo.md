@@ -1,4 +1,4 @@
-Soy Esperanza Peña. Actualmente, soy Profesora Asistente del Departamento de Epidemiología Clínica y Bioestadítica. Me inscrib{i en este curso porque quiero tener destrezas en programación; esto me sirve para hacer de forma más eficiente mis tareas. Actualmente, asesoro proyectos de investigación de estudiantes que hacen especializaciones médicas en las áreas de:
+Soy Esperanza Peña. Actualmente, soy Profesora Asistente del Departamento de Epidemiología Clínica y Bioestadítica. Me inscribí en este curso porque quiero tener destrezas en programación; esto me sirve para hacer de forma más eficiente mis tareas. Actualmente, asesoro proyectos de investigación de estudiantes que hacen especializaciones médicas :stethoscope: en las áreas de:
 
 1. Cirugía general
 2. Cirugía plástica
